@@ -6,6 +6,9 @@
  access through "instructors.php" and be provided with {First Name	Last Name	Unique Code} to enable one manage the sessions.
 
  Admin_CourseManagement.php: for adding courses enrolled  and is managed by administrator
+ 
+ 
+ 
  ADDITIONAL SUMMURY;
  The database for the Online Learning Platform is designed to connect students, instructors, courses, and learning resources in a structured way. The database for the Online Learning
 Platform is designed to keep everything connected and running smoothly. At the heart of it is
